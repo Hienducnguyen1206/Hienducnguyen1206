@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning ati Hanoi University of Science and Technology
+- 🌱 I’m currently learning at Hanoi University of Science and Technology
 <!--
 **Hienducnguyen1206/Hienducnguyen1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
