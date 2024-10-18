@@ -3,10 +3,12 @@
 - 🔭 I wan't to become a pro Game Developer
 <br>
 <br>
+<br>
 More about me 😄 :  
 When I was a child, my first experience with video games came through a Chinese-made Block game console that my mother bought for me for 1$. I was so captivated by the games that I played non-stop, to the point where I had to replace the batteries frequently. My mom often had to scold or even punish me for being so addicted to gaming.
 In my teenage years, I went to a friend’s house and played my first console game on a Family Coolbaby. That console truly mesmerized me, and my friend and I would lose ourselves in games like Contra and Bomberman. I wondered how people could create such amazing games, and from that moment, I nurtured a dream to one day create my own games.
 Fueled by my deep passion for gaming, I decided to pursue a degree in computer science, so I could follow my dream of becoming a game developer.
+<br>
 <br>
 I decided to choose Unity as my platform for game development and have spent nearly a year learning about Unity and the concepts used in coding games. During this time, I've managed to create a few small games. While they are still quite simple, they represent the first steps in my journey toward a career in game development.
 
