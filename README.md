@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 🌱 I’m currently learning at Hanoi University of Science and Technology
 - 🔭 I wan't to become a pro Game Developer
-  <br>
-   <br>
+<br>
+<br>
 More about me 😄 :  
 When I was a child, my first experience with video games came through a Chinese-made Block game console that my mother bought for me for 1$. I was so captivated by the games that I played non-stop, to the point where I had to replace the batteries frequently. My mom often had to scold or even punish me for being so addicted to gaming.
 In my teenage years, I went to a friend’s house and played my first console game on a Family Coolbaby. That console truly mesmerized me, and my friend and I would lose ourselves in games like Contra and Bomberman. I wondered how people could create such amazing games, and from that moment, I nurtured a dream to one day create my own games.
