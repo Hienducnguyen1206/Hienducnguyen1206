@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning at Hanoi University of Science and Technology
 
 More about me XD:
+/n
 When I was a child, my first experience with video games came through a Chinese-made Block game console that my mother bought for me for 20,000 VND. I was so captivated by the games that I played non-stop, to the point where I had to replace the batteries frequently XD. My mom often had to scold or even punish me for being so addicted to gaming.
 In my teenage years, I went to a friend’s house and played my first console game on a Family Coolbaby. That console truly mesmerized me, and my friend and I would lose ourselves in games like Contra and Bomberman. I wondered how people could create such amazing games, and from that moment, I nurtured a dream to one day create my own games.
 Fueled by my deep passion for gaming, I decided to pursue a degree in computer science, so I could follow my dream of becoming a game developer.
