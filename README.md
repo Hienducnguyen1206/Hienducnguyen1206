@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning at Hanoi University of Science and Technology
-- 🔭 I wan't to become a pro Game Developer
+- 🔭 I want to become a pro Game Developer
 <br>
 More about me 😄 : <br> 
 When I was a child, my first experience with video games came through a Chinese-made Block game machine that my mother bought for me for 1$. I was captivated by the games and spent most of my free time playing them, to the point where I had to replace the batteries frequently. My mom often had to scold or even punish me for being so addicted to gaming.
